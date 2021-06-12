@@ -6,7 +6,7 @@ title: Hi! Thanks for visiting my online home.
 
 I have a few key principles that help me lead a peaceful life:
 -  keep things simple 
--  leave them better than they were found
+-  leave things better than they were found
 -  believe nothing is impossible
 -  ask if the hill is worth dying on
 
