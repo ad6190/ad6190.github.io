@@ -1,3 +1,8 @@
+---
+layout: page
+---
+
+
 ## Hi! Thanks for visiting my online home.
 
 
