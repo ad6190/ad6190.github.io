@@ -27,7 +27,7 @@ I use this space to record my growth and observations as I go through life. Hope
 -   I have lived most of my life in 2 cities - Sri Ganganagar, Rajasthan (education) and Bangalore, Karnataka (career). 
 -   After 12 years in Bangalore, I am now working from Sri Ganganagar since covid. I live with my parents and brother. 
 -   I am looking for an understanding life partner with similar or compatible worldview.
--  To know more about me, go [here]().
+-  You can know more about me [here]().
 
 
 ---
