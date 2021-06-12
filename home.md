@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Hi! Thanks for visiting my online home.
 ---
 
-
-## Hi! Thanks for visiting my online home.
 
 
 I have a few key principles that help me lead a peaceful life:
