@@ -17,18 +17,18 @@ I have a few key principles that help me lead a peaceful life:
 
 ## 60 second biography
 
--   I'm the head of engineering at a B2B SaaS fintech [startup] which is growing 30% y-o-y in revenue (last 3 consecutive years) and is cashflow positive. 
--   I like to [build software systems] that run optimally. 
--   I write about [building and retaining software teams].
--   I lack formal education in leadership, which I overcompensate by [learning from the school of hard knocks]
--   I like being fit but find gyms very confining. So I cycle [almost everyday]. 
--   A few years ago, on a whim, I joined an ear-training course. My increased understanding of music led me to musical instruments. I am currently [learning to play ukulele]. 
--   I [read] both fiction and non-fiction, and [reflect] regularly. 
--   I have made an embarrassingly slow start with [sketching]. I have a long term goal of sketching people live.
+-   I'm the head of engineering at a B2B SaaS fintech [startup]() which is growing 30% y-o-y in revenue (last 3 consecutive years) and is cashflow positive. 
+-   I like to [build software systems]() that run optimally. 
+-   I write about [building and retaining software teams]().
+-   I lack formal education in leadership, which I overcompensate by [learning from the school of hard knocks]()
+-   I like being fit but find gyms very confining. So I cycle [almost everyday](). 
+-   A few years ago, on a whim, I joined an ear-training course. My increased understanding of music led me to musical instruments. I am currently [learning to play ukulele](). 
+-   I [read]() both fiction and non-fiction, and [reflect]() regularly. 
+-   I have made an embarrassingly slow start with [sketching](). I have a long term goal of sketching people live.
 -   I have lived most of my life in 2 cities - Sri Ganganagar, Rajasthan (education) and Bangalore, Karnataka (career). 
 -   After 12 years in Bangalore, I am working from Sri Ganganagar since covid. I live with my parents and brother. 
 -   I am looking for an understanding life partner with similar or compatible worldview.
--  To know more about me, go [here].
+-  To know more about me, go [here]().
 
 
 ---
