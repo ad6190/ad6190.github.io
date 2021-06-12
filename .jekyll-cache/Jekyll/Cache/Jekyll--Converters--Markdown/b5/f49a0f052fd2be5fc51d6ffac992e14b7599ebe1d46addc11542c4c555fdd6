@@ -1,4 +1,4 @@
-I"Ý'<p class="message"><strong>Howdy!</strong> This is an example blog post that shows several types of HTML content supported in this theme.</p>
+I"ì'<p class="message"><strong>Howdy!</strong> This is an example blog post that shows several types of HTML content supported in this theme.</p>
 
 <p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. <em>Aenean eu leo quam.</em> Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
 
@@ -26,7 +26,7 @@
 
 <h2 id="footnotes">Footnotes</h2>
 
-<p>Footnotes are supported as part of the Markdown syntax. Hereâ€™s one in action. Clicking this number<sup id="fnref:fn-sample_footnote" role="doc-noteref"><a href="#fn:fn-sample_footnote" class="footnote">1</a></sup> will lead you to a footnote. The syntax looks like:</p>
+<p>Footnotes are supported as part of the Markdown syntax. Hereâ€™s one in action. Clicking this number<sup id="fnref:fn-sample_footnote" role="doc-noteref"><a href="#fn:fn-sample_footnote" class="footnote" rel="footnote">1</a></sup> will lead you to a footnote. The syntax looks like:</p>
 
 <figure class="highlight"><pre><code class="language-text" data-lang="text">Clicking this number[^fn-sample_footnote]</code></pre></figure>
 

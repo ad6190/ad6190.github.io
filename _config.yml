@@ -1,6 +1,6 @@
 # Setup
 title: Aditi Bhatnagar
-url: https://getpoole.com
+url: https://ad6190.github.io/
 paginate: 1
 # baseurl: ""
 permalink: pretty
@@ -32,9 +32,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Aditi Bhatnagar
+  url: https://ad6190.github.io/
+  email: aditibhatnagar6190@gmail.com
 
 # Custom vars
 version: 3.0.0
@@ -42,7 +42,7 @@ version: 3.0.0
 # Navbar page list
 nav:
   - title: Home
-    url: /archive
+    url: /home
 
   - title: Blog
     url: /archive
