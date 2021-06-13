@@ -33,15 +33,3 @@ I use this space to record my growth and observations as I go through life. Hope
 
 ---
 
-## Recent posts
-
-Mar 11, 2021
-
-[SQL is hard]() — If you’re like most devs, you don’t write SQL. Instead you write less efficient and less maintainable data processing code in JavaScript, Python, etc. You miss out on the real power of your database. Why? Because SQL is mysterious, and you don't know what it can do for you.
-
-Jan 4, 2021
-
-[It's not as easy as just going to bed]() — You think to yourself “I should go to bed”, but you don’t actually move. You continue coding, writing, gaming, binge-watching, or doom-scrolling. You find yourself idly opening and closing the same set of apps on your phone over and over again. Sound familiar?
-
-
-[All posts →]()
