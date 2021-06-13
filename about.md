@@ -15,6 +15,6 @@ Over the years, I developed keen interest in [music](), [art]() and [psychology]
 
 As I stayed away from family for more than a decade, I figured that I had different interests than most of my friends. I found [well-written research papers]() more fascinating than Netflix. I had more time for deep 1:1 interactions than catching up with a group. I felt I was slowly getting disconnected from my circle due to my lack of appreciation for anything casual, shallow. 
 
-I used these experiences and reflections to evolve my understanding of self. I now know that I enjoy solitude, value close relations, appreciate a healthy routine, need less than I imagine, care deeply for my people and wish to lead a quality life. My loving family and friends make my world a [beautiful place]() and I hope to forward their love and kindness as I go through life. 
+I used these experiences and reflections to evolve my understanding of self. I now know that I enjoy solitude, value close relations, appreciate a [healthy routine](), need less than I imagine, care deeply for my people and wish to lead a quality life. My loving family and friends make my world a [beautiful place]() and I hope to forward their love and kindness as I go through life. 
 
 I use this space to write my observations and thoughts. If you wish to connect, feel free to [email me](). 
