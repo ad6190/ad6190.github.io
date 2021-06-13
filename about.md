@@ -17,4 +17,4 @@ As I stayed away from family for more than a decade, I figured that I had differ
 
 I used these experiences and reflections to evolve my understanding of self. I now know that I enjoy solitude, value close relations, appreciate a healthy routine, need less than I imagine, care deeply for my people and wish to lead a quality life. My loving family and friends make my world a beautiful place and I hope to forward their love and kindness as I go through life. 
 
-I use this space to write my observations and thoughts. If you wish to connect, feel free to [email me ](). 
+I use this space to write my observations and thoughts. If you wish to connect, feel free to [email me](). 
