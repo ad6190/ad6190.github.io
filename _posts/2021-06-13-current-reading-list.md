@@ -9,7 +9,7 @@ title: Current Reading List
 - [ ] The Manager's path
 - [ ] Three men in a boat 
 - [ ] To kill a mockingbird
-- [ ] The ultimate Hitchhiker's guide to the galaxy
+- [ ] The ultimate hitchhiker's guide to the galaxy
 
 
 
