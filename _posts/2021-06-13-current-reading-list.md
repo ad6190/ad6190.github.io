@@ -10,7 +10,7 @@ title: Current Reading List
 - [ ] Three men in a boat 
 - [ ] To kill a mockingbird
 - [ ] The ultimate hitchhiker's guide to the galaxy
-
+- [ ] So good they can't ignore you
 
 
 
