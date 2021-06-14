@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Management Notes
+title: Notes - Project Management
 ---
 
 # Project Lifecycle
