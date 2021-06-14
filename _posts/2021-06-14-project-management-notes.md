@@ -5,14 +5,14 @@ title: Project Management Notes
 
 # Project Lifecycle
 
-HLD
-LLD
-Development
-QA
-UAT
-Production
-Measurement 
-Closure
+- HLD
+- LLD
+- Development
+- QA
+- UAT
+- Production
+- Measurement 
+- Closure
 
 # Project Management Process
 
