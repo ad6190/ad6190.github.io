@@ -17,9 +17,9 @@ title: Project Management Notes
 # Project Management Process
 
 ### Initiation
-What
-How 
-Definition of done 
+- What
+- How 
+- Definition of done 
 
 ### Planning
 Scope baseline 
