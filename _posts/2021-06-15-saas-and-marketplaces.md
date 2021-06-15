@@ -13,7 +13,7 @@ A brief intro to marketplaces. These are of three types:
 2. curated - like flipkart, amazon (sellers are verified by flipkart)
 3. crafted - like uber (drivers work on the terms decided by uber)
 
-An oft-sighted downside of marketplaces is the revenue model that forces  revenue to be shared (30-40%). I think for someone trying to launch a quick product with no other visibility, this is a good bargain. One of my favourite online drawing tools (draw.io) generates 8 digits anually with 5 FTEs by being on atlassian marketplace. This allows them to keep the tool free elsewhere. 
+An oft-sighted downside of marketplaces is the revenue model that forces  revenue to be shared (30-40% in some cases). I think for someone trying to launch a quick product with no other visibility, this is a good bargain. One of my favourite online drawing tools (draw.io) generates 8 digits anually with 5 FTEs by being on atlassian marketplace. This allows them to keep the tool free elsewhere. 
 
 I am pretty convinced that unless one has a better distribution channel figured already, cureated marketplaces are the way to go for initial product launch. Building for accounting, find accounting marketplaces. For dev tools, go to github/gitlab marketplaces, productivity - go to slack, trello marketplaces. A product that uses marketplace to amplify but can exist without it should be an ideal place to start a b2b saas business, esp as a solo founder. 
 
