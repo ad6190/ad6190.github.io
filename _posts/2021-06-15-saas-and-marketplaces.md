@@ -4,7 +4,7 @@ title: SaaS and Distribution Channels
 ---
 
 
-If there's one thing I have learnt about building startups from the ground up, it is that distribution is a hard problem and businesses that solve for this problem first, have higher chance of success. Many a successful products die a silent death because they can't find a distribution channel. Esp in b2b saas, knowing where businesses most look for solutions is a critical piece. If they search on google, then google ads can be how you get visibility to your product. If they visit certain forums/conferences, then those become your distribution channel. 
+If there's one thing I have learnt about building startups from the ground up, it is that distribution is a hard problem and businesses that solve for this problem first, have a higher chance of success. Many a successful products die a silent death because they can't find a distribution channel. Esp in b2b saas, knowing where businesses most look for solutions is a critical piece. If they search on google, then google ads can be how you get visibility to your product. If they visit certain forums/conferences, then those become your distribution channel. 
 
 With the above understanding, I began exploring saas ideas and their distribution channels. I could see a lot of potential in marketplaces of famous applications (being a developer, I took most interest in github, atlassian etc). This piggy backing on giants allows one to reach the target segment faster than through the generic web. 
 
