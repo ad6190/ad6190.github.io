@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SaaS and Distribution Options
+title: SaaS and Distribution Channels
 ---
 
 
