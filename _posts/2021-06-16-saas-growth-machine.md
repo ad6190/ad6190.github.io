@@ -3,9 +3,11 @@ layout: post
 title: SaaS Growth Machine
 ---
 
-Few indicators of growth machines:
+Few indicators of growth machines [source](https://www.youtube.com/watch?v=5RR6M_d6eKc):
 
 - Should aim to build a repeatable, scalable, profitable growth machine
+- The 40% rule - growth rate + profit should add up to 40%. So, if you are growing at 20%, you should be generating a profit of 20%. If you are growing at 40%, you should be generating a 0% profit. If you are growing at 50%, you can lose 10%. 
+- T2D3 approach - triple your size/revenue for two years in a row, and then double it for three years in a row. After that you should pursue the rule of 40%.
 - The no. 1 indicator for saas should be growing no. of bookings
 - bookings = lead flow * funnel conversion rates * average deal size
 - bookings when there are sales rep = no of reps * PPR (productivity per rep)
