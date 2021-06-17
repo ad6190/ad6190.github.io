@@ -10,12 +10,14 @@ Through these interviews, I have figured some patterns in evaluation that can he
 
 Tips:
 
-- Be clear on the expectations. Have a list of specific skills being assessed for eg. in communication, it could be technical explanation that they should be able to drill down or it could be articulation, where they are able to express what help they need to arrive at solution. Competency matrix is a good place to get these skills. 
+- Be clear on the expectations. Have a list of specific skills being assessed for eg. in communication, it could be technical explanation that they should be able to drill down or it could be articulation, where they are able to express what help they need to arrive at a solution. Competency matrix is a good place to get these skills. 
 - Once the specific skillset is clear, create rating questions on each of them. 
 - Keep rating simple. It can be unimpressive, decent, highly impressive. It leaves less room for interpretation. 
-- Structure the interview as per the expectations instead of going by common interview formats. For eg. if OOP concepts are to be checked, then there are two options - asking them to build an application which would take significant time or asking them to review code with clear OOP flaws. The second could yield same result, faster.
+- Structure the interview as per your expectations instead of going by common interview formats. For eg. if OOP concepts are to be checked, then there are two options - asking them to build an application which would take significant time or asking them to review code with clear OOP flaws. The second could yield same result, faster.
 - Question the relevance of each round. If the world asks questions on DSA, do not just copy paste the format. In frontend, DSA is better checked after applying to relevant areas. For eg DOM is a tree and a tree/list question using DOM manipulation can add a flavour to the usual/rote-learned DSA questions. It can be used to check if the candidate can apply what they have learnt. 
 - As the level goes from 1 to 2 to 3, the interviewer should be able to use the same question and expect answers with varying degree of depth. This understanding of what to expect at a level for a single question, helps in identifying clear winners. For frontend, this question can be how does the browser work. For backend, it could be design a cli game. 
+- For some roles, it may be important to check debugging skills. Debugging a large code-base with little guidance gets especially challenging for juniors. You could see their potential by assigning a bug from an open-sourced project. Many developer friendly projects have a tag of "first-issue" to help beginners. 
+
 
 
 With zoom fatigue during covid, interviewing can be really challenging. It is important to be effective for the duration of call and avoid wasting time on either sides.  
