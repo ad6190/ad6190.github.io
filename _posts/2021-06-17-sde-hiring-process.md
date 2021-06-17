@@ -19,8 +19,7 @@ Tips:
 - For some roles, it may be important to check debugging skills. Debugging a large code-base with little guidance gets especially challenging for juniors. You could see their potential by assigning a bug from an open-sourced project. Many developer friendly projects have a tag of "first-issue" to help beginners. 
 
 
-
-With zoom fatigue during covid, interviewing can be really challenging. It is important to be effective for the duration of call and avoid wasting time on either sides.  
+With zoom fatigue during covid, interviewing can be really challenging. It is important to be effective for the duration of call and avoid wasting time on either sides. I will keep adding to this list as I get more ideas around interviewing SDEs and staying effective. 
 
 
 
