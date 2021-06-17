@@ -6,7 +6,7 @@ title: SDE Hiring Process
 
 I have taken over 100 technical interviews in the last one year. These have comprised technical and behavioural interviews for SDE 1, 2 and 3 for backend and as well as frontend. Note: I have a strong opinion on fullstack hiring and as much as possible, I keep frontend and backend disciplines separate. One should know the basics of both backend and frontend, but for full time hires, who are required to solve problems of at least some degree of depth, it is important to have an area of expertise or be willing to develop in an area eventually. 
 
-Through these interviews, I have figured some patterns in evaluation that can help in tech hiring for pre-series A startups. While the same patterns will apply for series A onward tech companies, usually, hiring becomes more automated for such a company at scale. Hence, I would recommend the below advice for small teams who carefully handpick their core team members.
+Through these interviews, I have figured some patterns in evaluation that can help in tech hiring for pre-series A startups. While the same patterns will apply for series A onward tech companies, usually, hiring becomes more automated at such scale. Hence, I would recommend the below advice for small teams who carefully handpick their core team members.
 
 Tips:
 
