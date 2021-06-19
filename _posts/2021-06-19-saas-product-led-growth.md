@@ -14,5 +14,11 @@ Product-led growth (PLG) is a business methodology in which user acquisition, ex
 
 A complete dependence on product for growth also restricts which businesses can be product-led from the beginning. Enterprise products require people-led growth. Acquisition of such products requires sales demo and activation is usually led by customer success. In contrast, products that offer value instantly to consumer can result in quick acquisition and activation depending if the actual value is same as or more than perceived value. Therefore, self-serve products are well suited for product-led growth strategy. Many a successful self-served product-led businesses [start with B2C](https://clearbit.com/resources/reports/product-led-growth-companies#b2b-or-not-2b) or prosumer (professional consumer) with a tier for enterprise, eg. calendly, slack, zoom etc. 
 
-While product-led growth is promising and feels like [first-principles](https://fs.blog/2018/04/first-principles/) thinking, whether or not you can use a product-led approach is affected by other factors like the maturity of the market, the complexity and sophistication of the product and the proficiency of the user. All of these challenges will take time but aren't insurmountable. Hence, product-led growth will emerge as an important element in most SaaS playbooks. 
+While product-led growth is promising and feels like [first-principles](https://fs.blog/2018/04/first-principles/) thinking, whether or not you can use a product-led approach is affected by other factors like the maturity of the market, the complexity and sophistication of the product and the proficiency of the user. All of these challenges will take time yet, I believe, these aren't insurmountable. Hence, product-led growth will emerge as an important element in most SaaS playbooks. 
+
+I closely watch the SaaS trends that take risk away from SaaS businesses and keep focus on real indicators of growth. For someone as risk averse as me, anything that gives a clear indication of growth or lackthereof, is comforting. 
+
+
+
+
 
