@@ -16,8 +16,7 @@ A complete dependence on product for growth also restricts which businesses can 
 
 While product-led growth is promising and feels like [first-principles](https://fs.blog/2018/04/first-principles/) thinking, whether or not you can use a product-led approach is affected by other factors like the maturity of the market, the complexity and sophistication of the product and the proficiency of the user. All of these challenges will take time, yet, I believe these aren't insurmountable. Hence, product-led growth will emerge as an important element in most SaaS playbooks. 
 
-I closely watch the SaaS trends that take risk away from SaaS businesses and keep focus on real indicators of growth. For someone as risk averse as me, anything that gives a clear indication of growth or lackthereof, is comforting and motivating.  
-
+The reason I closely watch SaaS playbook trends is that they take risk away from SaaS businesses and keep focus on real indicators of growth. For someone as risk averse as me, anything that gives a clear indication of growth or lackthereof, assures that atleast some aspects of businesses can be predictable. 
 
 
 
