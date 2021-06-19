@@ -4,7 +4,7 @@ title: Product-led Growth Strategy
 ---
 
 
-Intrigued by the growth trajectory of companies like hubspot, zoom, calendly, etc. I wondered what they did differently. Turns out their growth strategy is well differentiated and is product led. I believed that product led growth meant product decided what to build next using the data on actual product usage. This understanding doesn't fully capture the essence of product-led growth. In this write-up, I will try to summarise what I have newly learnt about product led growth. 
+Intrigued by the growth trajectory of companies like hubspot, zoom, calendly, etc. I wondered what they did differently. Turns out their growth strategy is well differentiated and is product led. I believed that product led growth meant product decided what to build next using the data on actual product usage. This understanding doesn't fully capture the essence of product-led growth. In this write-up, I will try to summarise what I have newly learnt about growth that's product led. 
 
 Let's first know that companies measure growth in terms of revenue and all the leading indicators of revenue. Leading indicators of growth are the numbers that show at every milestone in a customer journey. Most businesses classify these milestones as steps in a funnel (funnel because there's an expected drop after every step).  
 
