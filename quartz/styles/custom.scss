@@ -9,25 +9,19 @@
 // of the auto grid column (~716px). We override the grid AND the max-width.
 
 body[data-slug^="06-bookmarks"] {
-  .page > #quartz-body {
-    grid-template-columns: 320px 1fr 0px;
-
-    .sidebar.right {
-      display: none;
-      width: 0;
-      min-width: 0;
-      max-width: 0;
-      padding: 0;
-      overflow: hidden;
-    }
+  .page > #quartz-body .sidebar.right {
+    display: none !important;
+    width: 0 !important;
+    min-width: 0 !important;
+    max-width: 0 !important;
+    padding: 0 !important;
+    overflow: hidden !important;
   }
 
-  // Override theme's desktop + tablet max-width constraint on .center
-  @media all and (min-width: 800px) {
-    .page > #quartz-body div.center {
-      min-width: calc(100% - 3rem);
-      max-width: calc(100% - 3rem);
-    }
+  .page > #quartz-body div.center {
+    width: calc(100vw - 320px - 3rem) !important;
+    min-width: calc(100vw - 320px - 3rem) !important;
+    max-width: calc(100vw - 320px - 3rem) !important;
   }
 }
 
