@@ -9,6 +9,11 @@
 // of the auto grid column (~716px). We override the grid AND the max-width.
 
 body[data-slug^="06-bookmarks"] {
+  // Collapse right sidebar column and give all space to center
+  .page > #quartz-body {
+    grid-template-columns: 320px 1fr 0 !important;
+  }
+
   .page > #quartz-body .sidebar.right {
     display: none !important;
     width: 0 !important;
@@ -18,10 +23,11 @@ body[data-slug^="06-bookmarks"] {
     overflow: hidden !important;
   }
 
+  // Let center fill the 1fr column without any max-width cap
   .page > #quartz-body div.center {
-    width: calc(100vw - 320px - 3rem) !important;
-    min-width: calc(100vw - 320px - 3rem) !important;
-    max-width: calc(100vw - 320px - 3rem) !important;
+    min-width: 0 !important;
+    max-width: 100% !important;
+    width: 100% !important;
   }
 }
 
