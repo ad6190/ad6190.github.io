@@ -4,16 +4,30 @@
 // put your custom CSS here!
 
 // ── Bookmark pages: full-width layout ────────────────────────────────────────
-// Collapse the right sidebar column to 0 so the center gets all remaining space
-#quartz-body:has(.bookmark-table) {
-  grid-template-columns: 320px 1fr 0px !important;
+// body[data-slug] is set by Quartz on every page render — reliable targeting.
+// The Adrenaline theme constrains .center to max-width: calc(100% - 3rem)
+// of the auto grid column (~716px). We override the grid AND the max-width.
 
-  .sidebar.right {
-    display: none !important;
-    width: 0 !important;
-    min-width: 0 !important;
-    padding: 0 !important;
-    overflow: hidden !important;
+body[data-slug^="06-bookmarks"] {
+  .page > #quartz-body {
+    grid-template-columns: 320px 1fr 0px;
+
+    .sidebar.right {
+      display: none;
+      width: 0;
+      min-width: 0;
+      max-width: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+  }
+
+  // Override theme's desktop + tablet max-width constraint on .center
+  @media all and (min-width: 800px) {
+    .page > #quartz-body div.center {
+      min-width: calc(100% - 3rem);
+      max-width: calc(100% - 3rem);
+    }
   }
 }
 
