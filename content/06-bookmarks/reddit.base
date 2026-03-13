@@ -1,0 +1,35 @@
+filters:
+  and:
+    - file.inFolder("06-bookmarks/references")
+    - source == "reddit"
+
+properties:
+  title:
+    displayName: Title
+  url:
+    displayName: URL
+  type:
+    displayName: Type
+  tags:
+    displayName: Tags
+  seen:
+    displayName: Seen
+  date_saved:
+    displayName: Date Saved
+  description:
+    displayName: Notes
+
+views:
+  - type: table
+    name: Reddit
+    properties:
+      - title
+      - url
+      - type
+      - tags
+      - seen
+      - date_saved
+      - description
+    sort:
+      - property: date_saved
+        direction: DESC

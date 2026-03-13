@@ -1,0 +1,33 @@
+filters:
+  and:
+    - file.inFolder("06-bookmarks/references")
+    - source == "youtube"
+properties:
+  title:
+    displayName: Title
+  url:
+    displayName: URL
+  type:
+    displayName: Type
+  tags:
+    displayName: Tags
+  seen:
+    displayName: Seen
+  date_saved:
+    displayName: Date Saved
+  description:
+    displayName: Notes
+views:
+  - type: table
+    name: YouTube
+    sort:
+      - property: date_saved
+        direction: DESC
+    properties:
+      - title
+      - url
+      - type
+      - tags
+      - seen
+      - date_saved
+      - description

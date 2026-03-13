@@ -1,0 +1,35 @@
+filters:
+  and:
+    - file.inFolder("06-bookmarks/references")
+properties:
+  title:
+    displayName: Title
+  url:
+    displayName: URL
+  source:
+    displayName: Source
+  type:
+    displayName: Type
+  tags:
+    displayName: Tags
+  seen:
+    displayName: Seen
+  date_saved:
+    displayName: Date Saved
+  description:
+    displayName: Notes
+views:
+  - type: table
+    name: All Bookmarks
+    sort:
+      - property: date_saved
+        direction: DESC
+    properties:
+      - title
+      - url
+      - source
+      - type
+      - tags
+      - seen
+      - date_saved
+      - description
