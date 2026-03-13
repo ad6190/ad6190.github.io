@@ -38,7 +38,17 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+          return a.slugSegment.localeCompare(b.slugSegment, undefined, {
+            numeric: true,
+            sensitivity: "base",
+          })
+        }
+        return a.isFolder ? -1 : 1
+      },
+    }),
   ],
   right: [
     Component.Graph(),
@@ -62,7 +72,17 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+          return a.slugSegment.localeCompare(b.slugSegment, undefined, {
+            numeric: true,
+            sensitivity: "base",
+          })
+        }
+        return a.isFolder ? -1 : 1
+      },
+    }),
   ],
   right: [],
 }
