@@ -3,6 +3,28 @@
 
 // put your custom CSS here!
 
+// ── Bookmark pages: extend center to absorb right sidebar ────────────────────
+#quartz-body:has(.bookmark-table) {
+  .sidebar.right {
+    display: none !important;
+  }
+
+  // Span center, header, and footer across the now-empty right column
+  .center {
+    grid-column: 2 / 4;
+    max-width: 100%;
+    min-width: 100%;
+  }
+
+  .page-header {
+    grid-column: 2 / 4;
+  }
+
+  footer {
+    grid-column: 2 / 4;
+  }
+}
+
 // ── Bookmark table ────────────────────────────────────────────────────────────
 
 .bm-count {
