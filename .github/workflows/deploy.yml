@@ -30,6 +30,9 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Generate bookmark pages
+        run: node scripts/generate-bookmark-pages.mjs
+
       - name: Build Quartz
         run: npx quartz build
 
